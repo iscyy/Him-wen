@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm[Him-wen](https://wenvoi.github.io/) 👋
+
+#### Talking about Personal Stuffs:
++ 👨🏻‍💻 热爱探寻前端任何可能性的工程化实践；
++ 👯 期待能参与开源项目 🤝；
++ 💬 热爱学习知识；
 
 <!--
 **Him-wen/Him-wen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
