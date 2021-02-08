@@ -1,9 +1,10 @@
 ### Hi there, I'm [Him-wen](https://wenvoi.github.io/) 👋
 
 #### Talking about Personal Stuffs:
-+ 👨🏻‍💻 热爱前端工程化实践；
-+ 👯 热爱参与开源项目 🤝；
-+ 💬 热爱学习知识；
++ 👨🏻‍💻 Love front-end engineering practice；
++ 😄 I am now a graduate student, focusing on front-end developers；
++ 👯 Looking for internship now.Feel free to contact me via himwen@126.com；
++ 💬 Love to participate in open source projects；
 
 #### My technology stack:
 
