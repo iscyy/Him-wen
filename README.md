@@ -1,4 +1,4 @@
-### Hi there, I'm [Him-wen](https://him-wen.github.io/) 👋
+### Hi there, I'm [Him-wen](https://him-wen.github.io/him-wen) 👋
 
 #### Talking about Personal Stuffs:
 + 👨🏻‍💻 Love front-end engineering practice；
