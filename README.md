@@ -1,10 +1,9 @@
 ### Hi there, I'm [Him-wen](https://him-wen.github.io) 👋
 
 #### Talking about Personal Stuffs:
-+ 👨🏻‍💻 Love front-end engineering practice；
++ 👨🏻‍💻 Love front-end practice；
 + 😄 I am now a graduate student, focusing on front-end developers；
-+ 👯 Looking for internship now.Feel free to contact me via himwen@126.com；
-+ 💬 Love to participate in open source projects；
++ 👯 Looking for internship now.Feel free to contact me via himwen@126.com； 
 
 #### My technology stack:
 
