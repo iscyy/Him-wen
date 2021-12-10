@@ -3,7 +3,7 @@
 #### Talking about Personal Stuffs:
 + 👨🏻‍💻 Love front-end practice；
 + 😄 I am now a graduate student, focusing on front-end developers；
-+ 👯 Looking for internship now.Feel free to contact me via himwen@126.com； 
++ 👯 Looking for internship now.Feel free to contact me via @126.com； 
 
 #### My technology stack:
 
