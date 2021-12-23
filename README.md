@@ -1,9 +1,8 @@
 ### Hi there, I'm [Him-wen](https://him-wen.github.io) 👋
 
 #### Talking about Personal Stuffs:
-+ 👨🏻‍💻 Love front-end practice；
-+ 😄 I am now a graduate student, focusing on front-end developers；
-+ 👯 Looking for internship now.Feel free to contact me via @126.com； 
++ 😄 Learning direction: computer vision, deep learning, front-end and back-end program development;
++ 👯 Internship experience: Tencent, NetEase Research Institute
 
 #### My technology stack:
 
