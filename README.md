@@ -1,4 +1,4 @@
-### Hi there, I'm [Him-wen](https://him-wen.github.io) 👋
+### Hi there, I'm Him-wen 👋
 
 #### Talking about Personal Stuffs:
 + 😄 Learning direction: computer vision, deep learning, front-end and back-end program development;
