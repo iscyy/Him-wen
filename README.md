@@ -1,8 +1,9 @@
 ### Hi there, I'm Him-wen 👋
 
 #### Talking about Personal Stuffs:
-+ 😄 Learning direction: computer vision, deep learning, front-end and back-end program development;
-+ 👯 Internship experience: Tencent, NetEase Research Institute
++ 😄Learning direction: Computer vision, algorithm enthusiasts, have some exposure to machine learning, deep learning, software program development;
++ 🌟Work direction: front-end development
++ 👯Internship experience: Tencent Ltd., NetEase Research Institute
 
 #### Languages and Tools
 
