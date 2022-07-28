@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/24501320/158049904-efd9f43a-78ae-45f4-96f3-9fda67ee0392.png)
 #### Talking about Personal Stuffs:
 + 😄Learning direction: Computer vision, algorithm enthusiasts, have some exposure to machine learning, deep learning, software program development;
-+ 🌟Work direction: front-end development
++ 🌟Work direction: software development
 + 👯Internship experience: Tencent Ltd., NetEase Research Institute
 
 #### Languages and Tools
