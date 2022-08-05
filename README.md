@@ -1,4 +1,4 @@
-### Hi there, I'm Him-wen 👋
+### Hi there 👋
 
 ![image](https://user-images.githubusercontent.com/24501320/158049904-efd9f43a-78ae-45f4-96f3-9fda67ee0392.png)
 #### Talking about Personal Stuffs:
@@ -33,7 +33,6 @@
 + loading...
 
 <!--
-**Him-wen/Him-wen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
