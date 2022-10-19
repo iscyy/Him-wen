@@ -6,6 +6,9 @@
 + 🌟Work direction: software development
 + 👯Internship experience: Tencent Ltd., NetEase Research Institute
 
+[![](https://github-readme-stats.vercel.app/api?username=iscyy&show_icons=true)](https://github-readme-stats.vercel.app/api?username=iscyy&show_icons=true)
+[![](https://github-profile-trophy.vercel.app/?username=iscyy&theme=onedark)](https://github-profile-trophy.vercel.app/?username=iscyy&theme=onedark)
+
 #### Languages and Tools
 
 ![HTML](https://img.shields.io/badge/-HTML5-%23E34C26?style=flat&logo=html5&logoColor=ffffff)
